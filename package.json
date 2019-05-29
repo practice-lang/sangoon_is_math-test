@@ -1,0 +1,9 @@
+{
+  "name": "sim",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "sangoon_is_math": "^0.0.2-a"
+  }
+}
